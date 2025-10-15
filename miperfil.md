@@ -18,3 +18,10 @@ Comunicador Social y Periodista con experiencia en comunicación y marketing dig
 **Funciones:** Community Manager
 
 ## Desarrollador web
+
+### Intereses profesionales
+- Desarrollo de videojuegos
+- Comunicación y marketing digital
+- Programación de software
+- Diseño publicitario
+- Fotografia
