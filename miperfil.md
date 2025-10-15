@@ -25,3 +25,7 @@ Comunicador Social y Periodista con experiencia en comunicación y marketing dig
 - Programación de software
 - Diseño publicitario
 - Fotografia
+
+### Estudios
+**Escuela secundaria:** colegio integrado camacho carreño
+**Universidad:** UIS
