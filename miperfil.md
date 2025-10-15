@@ -16,3 +16,5 @@ Comunicador Social y Periodista con experiencia en comunicación y marketing dig
 **Empresa:** SUEMA - Reciclalo APP
 **Fecha:** Enero de 2023 a diciembre de 2023
 **Funciones:** Community Manager
+
+## Desarrollador web
