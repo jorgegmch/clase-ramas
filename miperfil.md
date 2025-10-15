@@ -4,4 +4,15 @@
 ### Comunicador Social y Periodista / Desarrollador de Software Backend
 
 ### Perfil profesional
-Comunicador social y periodista graduado de la universidad Sergio Arboleda, seccional Santa Marta, con habilidades en redacción, fotografia, manejo de redes sociales, diseño y ejecución de estrategias y campañas comunicativas.
+Comunicador Social y Periodista con experiencia en comunicación y marketing digital; estudiante de programación de software.
+
+### Datos personales:
+- Nombre: Jorge Gomez
+- Documento: 1000889922
+- Dirección: calle 2a #13
+- Telefono: +57 32323434234
+
+### Experiencia profesional
+**Empresa:** SUEMA - Reciclalo APP
+**Fecha:** Enero de 2023 a diciembre de 2023
+**Funciones:** Community Manager
